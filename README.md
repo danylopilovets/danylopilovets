@@ -49,7 +49,7 @@
 ---
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/scadyx)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:scadyx0@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](scadyx0@gmail.com)
 
 I am always eager to learn and explore new technologies that can enhance the efficiency of the software development process. 
 I believe in continuous learning and improvement, and I am constantly looking for ways to automate, optimize, and improve the overall software development lifecycle.
